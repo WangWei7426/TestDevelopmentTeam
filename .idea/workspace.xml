@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c035cdad-c37a-4977-932d-4d4ef0b962e0" name="Default Changelist" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_3_7_v20160115.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/weather_util.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_3_2021_18_11__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_3_2021_18_11__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06__Default_Changelist_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yanshibin/yanshibin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yanshibin/yanshibin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaojw/src/NT.java" beforeDir="false" afterPath="$PROJECT_DIR$/yaojw/src/NT.java" afterDir="false" />
     </list>
+    <ignored path="D:\idea\workspeace\TestDevelopmentTeam\.idea\shelf/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/yanshibin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +49,144 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1376278539">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yaojw/src/NT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunchao/src/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunchao/src/MethodSample01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunchao/src/com/imooc/objectproject/sample2/PackageSample02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunchao/src/com/imooc/objectproject/sample1/PackageSample03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sunchao/src/com/imooc/objectproject/sample1/PackageSample01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanshibin/src/thirdweek/game/pokerinfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanshibin/src/thirdweek/game/gameuser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanshibin/src/thirdweek/game/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yaojw/src/Third_Week.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2576">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yaojw/src/One_Week.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="381" column="13" lean-forward="true" selection-start-line="381" selection-start-column="13" selection-end-line="381" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yaojw/src/get.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,7 +243,6 @@
       <MavenImportingSettings>
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
-        <option name="jdkForImporter" value="11" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -98,10 +256,10 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="897" />
-    <option name="height" value="1047" />
+    <option name="x" value="15" />
+    <option name="y" value="108" />
+    <option name="width" value="1365" />
+    <option name="height" value="747" />
   </component>
   <component name="ProjectId" id="1q0HYU9P5vXQiTkzJbhjnUAGLCt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -112,8 +270,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -157,6 +313,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,6 +343,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -202,13 +360,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616161185750" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616396474103" />
     <property name="last_opened_file_path" value="D:/mavenRep/MyRepository/org/apache/commons/commons-logging/1.0/commons-logging-1.0.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15136719" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.42347527" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
@@ -216,7 +374,224 @@
       <recent name="secondweek.weather" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/aojie.iml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week2/aojie20210314(第二周).png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises10.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises11.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises12.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises13.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises14.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises3.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises4.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises5.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises6.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises7.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises8.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/StringExercises9.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/week3/选择题.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_10_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_11_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_12_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_1_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_2_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_4_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_6_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_7_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_2_9_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_1_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_2_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_3_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_4_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_5_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_7_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_3_8_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_11_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_12_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_14_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_15_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_1_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_2_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_3_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_4_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_6_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_7_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_8_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_4_9_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_5_1_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_6_1_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_6_3_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_6_5_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_6_6_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week1/LuXun_Imooc_7_1_20210302.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_2_2_20210305.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_2_4_20210305.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_3_2_20210305.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_3_3_20210305_Algorithm.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_3_4_20210305_MobileNumber.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_3_4_20210305_MobileNumberTestor.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_4_1_20210305_Hulk.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_4_1_20210305_Mark1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_4_1_20210305_Mark85.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/LuXun_Imooc_4_3_20210308_ArrayListSample.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample1/LuXun_Imooc_3_1_20210305_Sample01.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample1/LuXun_Imooc_3_1_20210305_Sample03.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample2/LuXun_Imooc_3_1_20210305_Sample02.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample5/LuXun_Imooc_4_2_20210307_Customer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample5/system/LuXun_Imooc_4_2_20210307_Chinese.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample5/system/LuXun_Imooc_4_2_20210307_CustomerService.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample5/system/LuXun_Imooc_4_2_20210307_English.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/com/ai/test/sample5/system/LuXun_Imooc_4_2_20210307_Language.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/weather/com/ai/weather/Application.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/weather/com/ai/weather/bin/weather-util-sources.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week2/weather/com/ai/weather/bin/weather-util.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_1_1_20210313.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_2_1_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_2_2_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_2_3_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_2_4_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_2_5_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_2_6_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_3_1_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_3_2_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_3_4_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_3_5_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_3_7_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/LuXun_Imooc_3_8_20210316.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/ChildCourse.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/CollectionsTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/Course.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/ListTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/MapTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/SetTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/Student.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/StudentComparator.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week3/imooc_collection_map_demo/com/imooc/collection/TestGeneric.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/luxun/src/week4/PokerGame.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/aojie/src/com/aym/aojie20210314(第二周).png</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NT">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secondweek.weather.Application" />
       <module name="yanshibin" />
@@ -259,14 +634,14 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
         <item itemvalue="Application.NT" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.WeeklyReport2" />
         <item itemvalue="Application.dddd" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\aa\AppData\Roaming\Subversion</configuration>
   </component>
@@ -280,6 +655,7 @@
       <workItem from="1615637590218" duration="840000" />
       <workItem from="1616136843774" duration="1728000" />
       <workItem from="1616138605878" duration="5018000" />
+      <workItem from="1616395563436" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="20210313">
       <created>1615638218725</created>
@@ -334,12 +710,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9094000" />
+    <option name="totallyTimeSpent" value="11705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33428776" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31281316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -348,16 +725,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49749464" visible="true" weight="0.3412204" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49749464" weight="0.3412204" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892628" weight="0.39975095" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010737" side_tool="true" weight="0.32254046" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5032212" side_tool="true" weight="0.32254046" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4996421" weight="0.14196762" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49749464" weight="0.41344956" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49677882" weight="0.31008717" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -366,7 +743,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32999283" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.23836793" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.14316392" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
@@ -378,12 +755,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20210313" />
@@ -430,10 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,9 +840,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/yaojw/src/NT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/yaojw/src/get.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="476">
           <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -468,13 +860,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yaojw/src/NT.java">
+    <entry file="file://$PROJECT_DIR$/sunchao/src/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunchao/src/MethodSample01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunchao/src/com/imooc/objectproject/sample2/PackageSample02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunchao/src/com/imooc/objectproject/sample1/PackageSample03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunchao/src/com/imooc/objectproject/sample1/PackageSample01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanshibin/src/thirdweek/game/pokerinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanshibin/src/thirdweek/game/gameuser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanshibin/src/thirdweek/game/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaojw/src/Third_Week.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2576">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaojw/src/One_Week.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="381" column="13" lean-forward="true" selection-start-line="381" selection-start-column="13" selection-end-line="381" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -559,7 +1011,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.42347527" />
               </list>
             </option>
           </splitter-proportions>

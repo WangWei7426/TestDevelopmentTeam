@@ -1,6 +1,8 @@
 package thirdweek.game;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Random;
 
 public class pokers {
@@ -13,9 +15,10 @@ public class pokers {
     }
 
     protected void testadd(){
-        PokerInfo pk = new PokerInfo("梅花","10");
+//        PokerInfo pk = new PokerInfo("黑桃","10");
+        PokerInfo pk = new PokerInfo("方块","10");
         cards.add(pk);
-        PokerInfo pk2 = new PokerInfo("黑桃","10");
+        PokerInfo pk2 = new PokerInfo("梅花","10");
         cards.add(pk2);
 //        PokerInfo cd = (PokerInfo) cards.get(0);
 //
@@ -36,8 +39,16 @@ public class pokers {
         System.out.println("玩家2："+cc.color+cc.value);
 
 
-        Boolean compare =pokers.compareCard(bb,cc);
-        System.out.println("结果为"+compare);
+        PokerInfo compare =pokers.compareCard(bb,cc);
+        System.out.println("结果为:"+compare.color+compare.value);
+
+//        String test1="K";
+//        String test2="J";
+//        if (test1.compareTo(test2)>0){
+//            System.out.println(test1);
+//        }else {
+//            System.out.println(test2);
+//        }
 
 //        pokers.compareCard(bb,cc);
 
@@ -56,7 +67,7 @@ public class pokers {
                 cards.add(pk);
             }
         }
-        System.out.println(cards.size());
+//        System.out.println(cards.size());
     }
 
 
@@ -72,29 +83,20 @@ public class pokers {
 
 
     //比较两张牌的大小
-    protected boolean compareCard(PokerInfo card1, PokerInfo card2){
-        Boolean bool = null;
-        String[] definesize= new String[]{"黑桃","红桃","梅花","方块"}; //相同时，按黑红梅方的花色判断大小
-        int result = card1.value.compareTo(card2.value);
+    protected PokerInfo compareCard(PokerInfo card1, PokerInfo card2){
+        //定义花色和数字的大小，从小到大排列
+//        ArrayList<String> definecolor = new ArrayList<>(){{add("黑桃");add("红桃");add("梅花");add("方块");}};
+        List<String> definecolor = Arrays.asList("方块","梅花","红桃","黑桃");
+        List<String> definevalue = Arrays.asList("2","3","4","5","6","7","8","9","10","J","Q","K","A");
 
-        if (result>0){bool = true;}
-        else if (result==0) {
-            System.out.println("111111:"+result);
-            int xiabiao1 = 0;
-            int xiabiao2 = 0;
-            for (int i = 0; i < definesize.length; i++) {
-                if (definesize[i] == card1.color) {
-                    xiabiao1 = i;
-                }
-                if (definesize[i] == card2.color) {
-                    xiabiao2 = i;
-                }
-            }
-            System.out.println("xiabiao1:" + xiabiao1);
-            System.out.println("xiabiao2:" + xiabiao2);
-            if (xiabiao1 < xiabiao2){bool = true;}else {bool = false;}
-        }else {bool = false;}
-        return bool;
+        int card1_index = definevalue.indexOf(card1.value);
+        int card2_index = definevalue.indexOf(card2.value);
+//        if (card1_index<0 ||card2_index<0){}
+        if (card1_index > card2_index) {return card1;}
+        else if (card1_index == card2_index) {
+            if (definecolor.indexOf(card1.color) > definecolor.indexOf(card2.color)){
+                return card1;
+            }else{return card2;}
+        }else {return card2;}
     }
-
 }

@@ -1,10 +1,12 @@
 package thirdweek.game;
 
-public class pokerinfo {
+public class PokerInfo {
     protected String color;
     protected String value;
-    protected pokerinfo(String color, String value){
+    protected PokerInfo(String color, String value){
         this.color = color;
         this.value = value;
     }
+
+    public PokerInfo(){}
 }
